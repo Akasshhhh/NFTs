@@ -1,7 +1,0 @@
-node_modules
-.prettierrc
-.env
-yarn.lock
-deployments
-cache 
-artifacts
